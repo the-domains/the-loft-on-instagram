@@ -1,0 +1,23 @@
+name: The Loft on Instagram
+favicon: null
+layout_spectrum: 0.3517642964143306
+typography_spectrum: 0.492386031197384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.09972897544503212
+  lightness: 0.4843968718778342
+  saturation: 0.9016210136469454
+  rhythmicContrast: 0.8318079041782767
+purpose: []
